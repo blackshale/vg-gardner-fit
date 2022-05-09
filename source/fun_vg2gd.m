@@ -1,4 +1,4 @@
-function [ag,theta,kr] = fun_vg2gd(av,n,theta_s,theta_r,psi)
+function [ag,theta,kr,kr_vg] = fun_vg2gd(av,n,theta_s,theta_r,psi)
 
 
 % ----linear descrete GD model
